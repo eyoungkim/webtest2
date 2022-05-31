@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "Eun Young Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "R Practice"
+      href: rprac.html
+    - text: "My Book"
+      href: mybook.html
+
